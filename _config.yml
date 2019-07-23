@@ -12,8 +12,7 @@ playstore_link:
 app_icon: assets/logo.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: Avid.fm # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: AViD helps you easily create and sell audio courses to eager learners. We are an audio-first platform that has everything you need to share your expertise in the best format.
-Join your audience who are waiting to hear from you.
+app_description: AViD helps you easily create and sell audio courses to eager learners. We are an audio-first platform that has everything you need to share your expertise in the best format. Join your audience who are waiting to hear from you.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 

@@ -12,7 +12,7 @@ playstore_link:
 app_icon: assets/logo.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: AViD # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: helps you easily create and sell audio courses to eager learners.
+app_description: Audio courses that work around your schedule.
 app_description_2: # We are an audio-first platform that has everything you need to share your expertise in the best format.
 app_description_3: # Join your audience who are waiting to hear from you.
 
